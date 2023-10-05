@@ -11,7 +11,7 @@ import {
 import { NextResponse } from "next/server";
 
 
-export const maxDuration = 300; // 5 mins
+export const maxDuration = 10; // 5 mins
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
 
